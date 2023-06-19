@@ -1,0 +1,1 @@
+npm install @mui/material @emotion/react @emotion/styled @mui/material @mui/styled-engine-sc styled-components @fontsource/roboto @mui/icons-material recharts
